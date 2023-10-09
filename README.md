@@ -1,1 +1,1 @@
-Meu primeiro commti, o ponto de start da jornada# Jornada_python
+Meu primeiro commti, o ponto de start da jornada
